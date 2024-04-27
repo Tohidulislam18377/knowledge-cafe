@@ -1,0 +1,102 @@
+    [
+        {
+            "_id": "66277baf47fae3d8d8b7b766",
+            "name": "John",
+            "title": "A Beginner's Guide to Web Development Learning HTML, CSS, and JavaScript",
+            "date": "2024-04-20",
+            "time": 3,
+            "read":"05 min read",
+            "image": "../src/assets/images/1.jpg",
+            "photo":"../src/assets/images/boy2.png"
+        },
+        {
+            "_id": "66277baf47fae3d8d8b7b767",
+            "name": "Alice",
+            "title": "Mastering JavaScript From Fundamentals to Advanced Techniques",
+            "date": "2024-04-20",
+            "time": 1,
+            "read":"10 min read",
+            "image": "../src/assets/images/2.png",
+            "photo":"../src/assets/images/girl1.jpg"
+        },
+        {
+            "_id": "66277baf47fae3d8d8b7b768",
+            "name": "Bob",
+            "title": "Building Responsive Websites with CSS Tips and Tricks for Frontend Developers",
+            "date": "2024-04-21",
+            "time": 8,
+            "read":"25 min read",
+            "image": "../src/assets/images/3.png",
+            "photo":"../src/assets/images/girl1.jpg"
+        },
+        {
+            "_id": "66277baf47fae3d8d8b7b769",
+            "name": "Emily",
+            "title": "The Ultimate Guide to JavaScript Frameworks Exploring React, Vue, and Angular",
+            "date": "2024-04-22",
+            "time": 7,
+            "read":"20 min read",
+            "image": "../src/assets/images/3.png",
+            "photo":"../src/assets/images/profile.png"
+        },
+        {
+            "_id": "66277baf47fae3d8d8b7b770",
+            "name": "Michael",
+            "title": "Modern Web Development Essentials HTML5, CSS3, and JavaScript",
+            "date": "2024-04-23",
+            "time": 5,
+            "read":"8 min read",
+            "image": "../src/assets/images/4.jpg",
+            "photo":"../src/assets/images/boy1.png"
+        },
+        {
+            "_id": "66277baf47fae3d8d8b7b771",
+            "name": "Sarah",
+            "title": "Creating Dynamic Web Applications with Node.js and Express",
+            "date": "2024-04-24",
+            "time": 5,
+            "read":"12 min read",
+            "image": "../src/assets/images/1.jpg",
+            "photo":"../src/assets/images/girl2.jpg"
+        },
+        {
+            "_id": "66277baf47fae3d8d8b7b772",
+            "name": "Daniel",
+            "title": "Responsive Web Design Principles: Designing for Multiple Devices",
+            "date": "2024-04-25",
+            "time": 10,
+            "read":"13 min read",
+            "image": "../src/assets/images/3.png",
+            "photo":"../src/assets/images/boy1.png"
+        },
+        {
+            "_id": "66277baf47fae3d8d8b7b773",
+            "name": "Emma",
+            "title": "The Complete Guide to Frontend Development: From Basics to Advanced Concepts",
+            "date": "2024-04-26",
+            "time": 15,
+            "read":"18 min read",
+            "image": "../src/assets/images/4.jpg",
+            "photo":"../src/assets/images/girl1.jpg"
+        },
+        {
+            "_id": "66277baf47fae3d8d8b7b774",
+            "name": "James",
+            "title": "Exploring the World of APIs: Building RESTful Services with Node.js",
+            "date": "2024-04-27",
+            "time": 3,
+            "read":"22 min read",
+            "image": "../src/assets/images/2.png",
+            "photo":"../src/assets/images/profile.png"
+        },
+        {
+            "_id": "66277baf47fae3d8d8b7b775",
+            "name": "Olivia",
+            "title": "User Experience Design: Creating Intuitive and Engaging Interfaces",
+            "date": "2024-04-28",
+            "time": 6,
+            "read":"40 min read",
+            "image": "../src/assets/images/4.jpg",
+            "photo":"../src/assets/images/boy1.png"
+        }
+    ]
